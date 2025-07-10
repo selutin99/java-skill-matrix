@@ -1,2 +1,4 @@
-.DS_Store
 ~*.docx
+
+.idea
+.DS_Store
