@@ -1,4 +1,4 @@
-# 3. Компоненты Spring WebFlux
+# Компоненты Spring WebFlux
 
 ## 🔧 Что такое Spring WebFlux
 
