@@ -35,3 +35,7 @@
         - [Коллекции и их иерархия](Java/INTERN/Коллекции.md)
         - [Механизм обработки исключений try-catch-finally](Java/INTERN/Механизм%20обработки%20исключений%20try-catch-finally.md)
         - [Компиляция Java-приложения, системы сборки](Java/INTERN/Компиляция%20Java-приложения,%20системы%20сборки.md)
+    - JUNIOR
+        - [Stream API](Java/JUNIOR/Stream%20API.md)
+        - [Generics и Wildcards](Java/JUNIOR/Generics.md)
+        - [Отличия процесса от потока, способы создания потоков](Java/JUNIOR/Поток%20и%20процесс.md)
