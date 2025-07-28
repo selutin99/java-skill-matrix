@@ -39,3 +39,8 @@
         - [Stream API](Java/JUNIOR/Stream%20API.md)
         - [Generics и Wildcards](Java/JUNIOR/Generics.md)
         - [Отличия процесса от потока, способы создания потоков](Java/JUNIOR/Поток%20и%20процесс.md)
+        - [Области памяти в Java и что где хранится](Java/JUNIOR/Области%20памяти.md)
+        - [Исключения, каких типов они бывают, чем отличается Error от Exception](Java/JUNIOR/Исключения.md)
+        - [Reflection, функционал и пример](Java/JUNIOR/Reflection.md)
+
+
