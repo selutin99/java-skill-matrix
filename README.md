@@ -49,3 +49,6 @@
         - [Синхронизация в многопоточном программировании и для чего она нужна, atomic переменных, volatile, happens before](Java/MIDDLE/Многопоточка.md)
         - [Dead lock, как он образуется и как этого избежать](Java/MIDDLE/Dead%20lock.md)
         - [Как работает GC](Java/MIDDLE/Работа%20GC.md)
+        - [Параметры GC -Xms, -Xmx, -Xss](Java/MIDDLE/Параметры%20GC.md)
+        - [Reflection для аннотаций](Java/MIDDLE/Reflection.md)
+        - [Динамическая загрузка классов, ClassLoader](Java/MIDDLE/ClassLoader.md)
