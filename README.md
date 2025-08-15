@@ -52,3 +52,7 @@
         - [Параметры GC -Xms, -Xmx, -Xss](Java/MIDDLE/Параметры%20GC.md)
         - [Reflection для аннотаций](Java/MIDDLE/Reflection.md)
         - [Динамическая загрузка классов, ClassLoader](Java/MIDDLE/ClassLoader.md)
+        - [Динамические прокси и как их создавать](Java/MIDDLE/Динамические%20прокси.md)
+        - [Профайлинг и инструменты профайлинга](Java/MIDDLE/Профайлинг.md)
+        - [Основные нововведения последних LTS версий Java](Java/MIDDLE/LTS%20Java.md)
+        - [Последние тенденции в Java и релизы](Java/MIDDLE/Релизы%20Java.md)
