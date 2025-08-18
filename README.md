@@ -65,3 +65,6 @@
     - INTERN
         - [Что такое Spring, для чего используется](Spring/INTERN/Что%20такое%20Spring.md)
         - [Основные стереотипы (аннотации), используемые в Spring](Spring/INTERN/Аннотации%20Spring.md)
+        - [Как сконфигурировать и запустить Spring приложение с нуля](Spring/INTERN/Конфигурация%20приложения%20Spring.md)
+    - JUNIOR
+        - [Что такое IoC и DI](Spring/JUNIOR/IoC%20DI.md) 
