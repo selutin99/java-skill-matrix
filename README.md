@@ -67,4 +67,7 @@
         - [Основные стереотипы (аннотации), используемые в Spring](Spring/INTERN/Аннотации%20Spring.md)
         - [Как сконфигурировать и запустить Spring приложение с нуля](Spring/INTERN/Конфигурация%20приложения%20Spring.md)
     - JUNIOR
-        - [Что такое IoC и DI](Spring/JUNIOR/IoC%20DI.md) 
+        - [Что такое IoC и DI](Spring/JUNIOR/IoC%20DI.md)
+        - [Функции Spring, что такое bean и что такое context](Spring/JUNIOR/Функции%20Spring.md)
+        - [Spring Data](Spring/JUNIOR/Spring%20Data.md)
+        - [Spring Web MVC и Spring Flux](Spring/JUNIOR/Spring%20Web%20MVC%20Flux.md)
