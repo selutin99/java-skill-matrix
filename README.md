@@ -71,3 +71,6 @@
         - [Функции Spring, что такое bean и что такое context](Spring/JUNIOR/Функции%20Spring.md)
         - [Spring Data](Spring/JUNIOR/Spring%20Data.md)
         - [Spring Web MVC и Spring Flux](Spring/JUNIOR/Spring%20Web%20MVC%20Flux.md)
+        - [Отличия Spring Boot от Spring](Spring/JUNIOR/Spring%20Boot%20VS%20Spring.md)
+    - MIDDLE
+        - [Жизненный цикл бина и его scopes](Spring/MIDDLE/ЖЦ%20бина.md) 
