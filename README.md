@@ -73,4 +73,6 @@
         - [Spring Web MVC и Spring Flux](Spring/JUNIOR/Spring%20Web%20MVC%20Flux.md)
         - [Отличия Spring Boot от Spring](Spring/JUNIOR/Spring%20Boot%20VS%20Spring.md)
     - MIDDLE
-        - [Жизненный цикл бина и его scopes](Spring/MIDDLE/ЖЦ%20бина.md) 
+        - [Жизненный цикл бина и его scopes](Spring/MIDDLE/ЖЦ%20бина.md)
+        - [Как работают аннотации cacheable, transactional, async и какие у них есть ограничения](Spring/MIDDLE/Аннотации.md)
+        - [Как тестировать Spring приложение](Spring/MIDDLE/Тестирование%20Spring%20приложения.md)
