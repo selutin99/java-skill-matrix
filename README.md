@@ -78,3 +78,6 @@
         - [Как тестировать Spring приложение](Spring/MIDDLE/Тестирование%20Spring%20приложения.md)
         - [Как работают Spring Boot starters, что такое автоконфигурация и как написать свой собственный стартер](Spring/MIDDLE/Стартеры.md)
         - [Проект Spring Cloud, какие в нем есть компоненты и как их использовать](Spring/MIDDLE/Spring%20Cloud.md)
+    - SENIOR
+        - [Как устроена генерация прокси для аннотаций Spring, знает как самостоятельно реализовать функционал, сходный с Cacheable\Async\Transactional](Spring/SENIOR/Прокси.md)
+        - [Что такое Bean Factory Processor и Bean Factory Post Processor, для чего они используются и что можно сделать с их помощью](Spring/SENIOR/BeanFactoryProcessor.md)
