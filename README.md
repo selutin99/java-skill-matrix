@@ -81,3 +81,7 @@
     - SENIOR
         - [Как устроена генерация прокси для аннотаций Spring, как самостоятельно реализовать функционал, сходный с Cacheable\Async\Transactional](Spring/SENIOR/Прокси.md)
         - [Что такое Bean Factory Processor и Bean Factory Post Processor, для чего они используются и что можно сделать с их помощью](Spring/SENIOR/BeanFactoryProcessor.md)
+- Messaging
+    - INTERN
+        - [Что такое Kafka, для чего она используется, из каких компонентов состоит кластер](Messaging/INTERN/Kafka.md)
+        - [Что такое партиция, на что влияет, как происходит запись сообщения](Messaging/INTERN/Партиция.md)
