@@ -93,3 +93,5 @@
         - [Как происходит очистка топиков кафки](Messaging/MIDDLE/Очистка%20топиков.md)
     - SENIOR
         - [Как Kafka работает со сжатыми данными](Messaging/SENIOR/Сжатые%20данные.md) 
+        - [Как устроен механизм транзакций в Kafka](Messaging/SENIOR/Транзакции.md)
+        - [Концепция Zero Copy и как это ускоряет работу Kafka](Messaging/SENIOR/Zero%20Copy.md)
