@@ -95,3 +95,7 @@
         - [Как Kafka работает со сжатыми данными](Messaging/SENIOR/Сжатые%20данные.md) 
         - [Как устроен механизм транзакций в Kafka](Messaging/SENIOR/Транзакции.md)
         - [Концепция Zero Copy и как это ускоряет работу Kafka](Messaging/SENIOR/Zero%20Copy.md)
+- Databases SQL
+    - INTERN
+        - [Что такое реляционная база данных и как в ней хранятся данные](SQL/INTERN/РБД.md)
+        - [Как связываются таблицы и типы связей (1-1, 1-n, n-n)](SQL/INTERN/Типы%20связей.md)
