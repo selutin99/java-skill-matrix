@@ -124,3 +124,6 @@
         - [CAP теорема, для чего она применяется](NoSQL/MIDDLE/CAP%20теорема.md)
         - [Типы поисковых контекстов ElasticSearch и как строить запросы оптимальным образом](NoSQL/MIDDLE/Поисковые%20контексты%20ElasticSearch.md)
         - [Как устроен кластер ElasticSearch и как хранятся данные](NoSQL/MIDDLE/ElasticSearch%20кластер.md)
+        - [Как устроен шардированный кластер MongoDB и как обеспечивается отказоустойчивость](NoSQL/MIDDLE/MongoDB%20кластер.md)
+        - [Что такое Read\Write concern и eventually consistency](NoSQL/MIDDLE/Read%20Write%20concern.md)
+        - [Как работают транзакции в MongoDB и какие они предоставляют гарантии](NoSQL/MIDDLE/Транзакции%20MongoDB.md)
